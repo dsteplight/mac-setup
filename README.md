@@ -5,7 +5,7 @@ A set of tools that makes life easier while using a Mac for Power users.
 
 ## Keyboard shortcuts
 * Shift
-* ™£¡• Command 
+* ⌘  Command 
 * Control
 * Alt
 
