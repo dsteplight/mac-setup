@@ -4,10 +4,12 @@
 A set of tools that makes life easier while using a Mac for Power users.
 
 ## Keyboard shortcuts
-* Shift
-* ⌘  Command 
-* Control
-* Alt
+* Command ⌘
+* Shift ⇧
+* Option ⌥
+* Control ⌃
+* Caps Lock ⇪
+* Fn
 
 ``` bash
 $ open ~/path/to/files/contract.pdf
