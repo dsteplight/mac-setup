@@ -23,21 +23,25 @@ $ streamlink http://some-url-to-video-stream/ source
 
 ## Development Tools
 
-* [iterm2 - A replacement for Mac’s Terminal] (http://google.com)
-* [zsh - A replacement for Bash] (http://google.com)
-* [vim - IDE] (http://google.com)
-	* [Plugins] (https://github.com)
-* [vagrant - Turn your command line into server of your choice] (https://google.com)
-* [docker ] (http://google.com)
-	* [boot2docker] (htt://google.com)
-* [ansible - Automated server provisioning] (https://google.com)
-* [MySQL Workbench] (http://google.com)
-* [xcode] (http://google.com)
+* [iterm2 - A replacement for Mac’s Terminal that does amazing things] (https://www.iterm2.com/)
+* [Oh My Zsh - Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration.] (http://ohmyz.sh/)
+* [vim - IDE] (http://www.vim.org/)
+	* [Plugins] (https://github.com/dsteplight/vimrc)
+* [vagrant - Turn your command line into server of your choice. Create and configure lightweight, reproducible, and portable development environments] (https://www.vagrantup.com/)
+* [docker - Docker is the world’s leading software containerization platform
+
+ ] (https://www.docker.com/)
+	* [boot2docker] (http://boot2docker.io/)
+* [ansible - Automated server provisioning. Deploy apps. Manage systems. Crush complexity.
+Ansible helps you build a strong foundation for DevOps.] (https://www.ansible.com/)
+* [MySQL Workbench - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs] (https://www.mysql.com/products/workbench/)
+* [xcode] (https://developer.apple.com/xcode/)
 	* iOS Development
 	* iOS Simulator
-* [Andy - Android Development] (http://google.com)
-* [CyberDuck - secure ftp] (http://google.com)
-* [Virtualbox - ](http://google.com)
+* [Andy - Android Development] (http://www.andyroid.net/)
+* [CyberDuck - secure ftp] (https://cyberduck.io/?l=en)
+* [Mountain Duck - Open remote files with any application and work like on a local volume.] (https://mountainduck.io/)
+* [Virtualbox - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use ](https://www.virtualbox.org/wiki/VirtualBox)
 
 
 ## Maintenance
