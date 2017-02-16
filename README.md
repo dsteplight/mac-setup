@@ -56,32 +56,32 @@ $ streamlink http://some-url-to-video-stream/ source
 * [Whatsapp]
 
 ## Browsers
-* Chrome
+* [Chrome]
 	* Plugins
-		* Tab Wrangler
-		* RoboForm
-		* Delicious
-* Firefox
-* Opera
-* Safari
-* Torch
+		* [Tab Wrangler]
+		* [RoboForm]
+		* [Delicious]
+* [Firefox]
+* [Opera]
+* [Safari]
+* [Torch]
 
 ## Documents
-* Libreoffice
-* nvALT
+* [Libreoffice]
+* [nvALT]
 
 ## Multimedia
-* Gimp
-* Quicktime
-* VLC
-* Streamlink
-* DaVinci Resolve - Used for video editing
-* Linode
-* Pencil
-* Spotify
+* [Gimp]
+* [Quicktime]
+* [VLC]
+* [Streamlink]
+* [DaVinci Resolve - Used for video editing]
+* [Linode]
+* [Pencil]
+* [Spotify]
 
 ## Security
-* Roboform
-* PingId
-* Google Authenticator
+* [Roboform]
+* [PingId]
+* [Google Authenticator]
 
