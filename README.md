@@ -83,6 +83,7 @@ Ansible helps you build a strong foundation for DevOps.] (https://www.ansible.co
 * [Linode]
 * [Pencil - Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.] (http://pencil.evolus.vn/)
 * [Spotify - Music]
+* [Harmony - Music player with sleek interface & cloud compatibility. One music player to rule them all. A nice wrapper app that can tap into your Soundcloud, Whatsapp and other various music accounts.] (http://getharmony.xyz/)
 
 ## Security
 * [Roboform]
