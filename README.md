@@ -71,17 +71,17 @@ Ansible helps you build a strong foundation for DevOps.] (https://www.ansible.co
 * [Torch]
 
 ## Documents
-* [Libreoffice -Basically an open-source replacement for Microsoft Office ]
-* [nvALT - I use it to create Markdown files, as a poor man's to-do list and to write down random notes. Some cool features is it allows you to hyperlink to other notes and provides a simple ui find and save notes ] (http://google.com)
+* [Libreoffice - LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.] (https://www.libreoffice.org/)
+* [nvALT - nvALT 2 is a fork of the original Notational Velocity with some additional features and interface modifications, including MultiMarkdown functionality. ] (http://brettterpstra.com/projects/nvalt/)
 
 ## Multimedia
-* [Gimp - an open-source solution to Adobe Photoshop] (http://google.com)
+* [Gimp - an open-source solution to Adobe Photoshop] (https://www.gimp.org/downloads/)
 * [Quicktime]
 * [VLC - ] 
 * [Streamlink]
 * [DaVinci Resolve - Used for video editing]
 * [Linode]
-* [Pencil - Open-source solution for creating Wireframes and UI/UX Mockups] 
+* [Pencil - Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.] (http://pencil.evolus.vn/)
 * [Spotify - Music]
 
 ## Security
