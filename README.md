@@ -23,40 +23,39 @@ $ streamlink http://some-url-to-video-stream/ source
 
 ## Development Tools
 
-* [ITERM 2 - A replacement for Mac’s Terminal] (http://google.com)
-* [ZSH - A replacement for Bash] (http://google.com)
-* [VIM - IDE] (http://google.com)
+* [iterm2 - A replacement for Mac’s Terminal] (http://google.com)
+* [zsh - A replacement for Bash] (http://google.com)
+* [vim - IDE] (http://google.com)
 	* [Plugins] (https://github.com)
-* Vagrant
-* Docker
-	* Boot2Docker
-* Ansible
-* MySQL  Workbench
-* Xcode
+* [vagrant - Turn your command line into server of your choice] (https://google.com)
+* [docker ] (http://google.com)
+	* [boot2docker] (htt://google.com)
+* [ansible - Automated server provisioning] (https://google.com)
+* [MySQL Workbench] (http://google.com)
+* [xcode] (http://google.com)
 	* iOS Development
 	* iOS Simulator
-* Andy Android Development
-* CyberDuck
-* Virtualbox
+* [Andy - Android Development] (http://google.com)
+* [CyberDuck - secure ftp] (http://google.com)
+* [Virtualbox - ](http://google.com)
 
 
- ## Maintenance
-* DaiseyDisk
+## Maintenance
+* [DaiseyDisk ](http://google.com)
 
 ## Productivity
-* TotalFinder - A better finders tool
-* Alfred 2
-* Alarm Clock
-* Flux 
-	* Used to control screen brightness to reflect the time of day
+* [TotalFinder - A better finders tool] (http://google.com)
+* [Alfred 2 ] (http://google.com)
+* [Alarm Clock Alarm Clock, Stopwatch and Timer. I use it to time mysql while working on a task and setting multiple alarm clocks ](http://google.com)
+* [Flux - Controls the brightness of your screen from dusk to dawn. It's great for moonerlighters to prevent bright screens while at night] (http://google.com)
 
-# Communication
-* Slack
-* Skype
-* Rocket
-* Whatsapp
+## Communication
+* [Slack]
+* [Skype]
+* [Rocket]
+* [Whatsapp]
 
-# Browsers
+## Browsers
 * Chrome
 	* Plugins
 		* Tab Wrangler
@@ -67,11 +66,11 @@ $ streamlink http://some-url-to-video-stream/ source
 * Safari
 * Torch
 
-# Documents
+## Documents
 * Libreoffice
 * nvALT
 
-# Multimedia
+## Multimedia
 * Gimp
 * Quicktime
 * VLC
