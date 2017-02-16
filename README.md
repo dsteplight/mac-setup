@@ -67,18 +67,18 @@ $ streamlink http://some-url-to-video-stream/ source
 * [Torch]
 
 ## Documents
-* [Libreoffice]
-* [nvALT]
+* [Libreoffice -Basically an open-source replacement for Microsoft Office ]
+* [nvALT - I use it to create Markdown files, as a poor man's to-do list and to write down random notes. Some cool features is it allows you to hyperlink to other notes and provides a simple ui find and save notes ] (http://google.com)
 
 ## Multimedia
-* [Gimp]
+* [Gimp - an open-source solution to Adobe Photoshop] (http://google.com)
 * [Quicktime]
-* [VLC]
+* [VLC - ] 
 * [Streamlink]
 * [DaVinci Resolve - Used for video editing]
 * [Linode]
-* [Pencil]
-* [Spotify]
+* [Pencil - Open-source solution for creating Wireframes and UI/UX Mockups] 
+* [Spotify - Music]
 
 ## Security
 * [Roboform]
