@@ -45,13 +45,13 @@ Ansible helps you build a strong foundation for DevOps.] (https://www.ansible.co
 
 
 ## Maintenance
-* [DaiseyDisk ](http://google.com)
+* [DaiseyDisk ](https://daisydiskapp.com/)
 
 ## Productivity
-* [TotalFinder - A better finders tool] (http://google.com)
-* [Alfred 2 ] (http://google.com)
-* [Alarm Clock Alarm Clock, Stopwatch and Timer. I use it to time mysql while working on a task and setting multiple alarm clocks ](http://google.com)
-* [Flux - Controls the brightness of your screen from dusk to dawn. It's great for moonerlighters to prevent bright screens while at night] (http://google.com)
+* [TotalFinder - A better finders tool] (https://totalfinder.binaryage.com/)
+* [Alfred 3 ] (https://www.alfredapp.com/)
+* [Alarm Clock  - Alarm Clock, Stopwatch and Timer. I use it to time mysql while working on a task and setting multiple alarm clocks ](http://google.com)
+* [Flux - It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.] (https://justgetflux.com/)
 
 ## Communication
 * [Slack]
