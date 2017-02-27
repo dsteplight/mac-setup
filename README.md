@@ -42,6 +42,7 @@ Ansible helps you build a strong foundation for DevOps.] (https://www.ansible.co
 * [CyberDuck - secure ftp] (https://cyberduck.io/?l=en)
 * [Mountain Duck - Open remote files with any application and work like on a local volume.] (https://mountainduck.io/)
 * [Virtualbox - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use ](https://www.virtualbox.org/wiki/VirtualBox)
+* [httpie - command line tool for making https request calls] (https://github.com/jkbrzt/httpie)
 
 
 ## Maintenance
